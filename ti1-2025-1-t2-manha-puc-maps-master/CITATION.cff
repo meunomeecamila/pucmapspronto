@@ -1,0 +1,36 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Puc-maps
+authors:
+  - family-names: Nascimento Sudre
+    given-names: Anne
+  - family-names: Cardoso de Menezes
+    given-names: Camila
+  - family-names: Gomes Pereira
+    given-names: Daniel
+  - family-names: Fonseca Viana
+    given-names: Mariana
+  - family-names: Peixoto Ferreira
+    given-names: Saulo
+  - family-names: Manso Silvério
+    given-names: Sérgio
+  - name-suffix: Professor 
+    affiliation: PUC Minas
+    family-names: Nepomuceno Curto
+    given-names: Hayaka
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Mara Freitas Diniz
+    given-names: Luciana 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+  - family-names: Dias Maciel
+    given-names: Wesley
+keywords:
+  - localização
+  - mapa
+  - universidade
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-t2-manha-puc-maps.git
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
